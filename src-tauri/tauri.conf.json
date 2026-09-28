@@ -15,7 +15,9 @@
         "title": "Masar - مسار",
         "resizable": true,
         "maximized": true,
-        "fullscreen": true
+        "fullscreen": true,
+        "devtools": true
+
       }
     ],
     "security": {
