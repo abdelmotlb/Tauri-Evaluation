@@ -1,5 +1,10 @@
 function Home() {
-  return <h2>Home Page</h2>;
+  return (
+    <div>
+      <h2>Home Page</h2>
+      <p>Welcome! This is a protected page.</p>
+    </div>
+  );
 }
 
 export default Home;
