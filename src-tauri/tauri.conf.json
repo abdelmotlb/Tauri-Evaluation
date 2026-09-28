@@ -1,8 +1,8 @@
 {
   "$schema": "../node_modules/@tauri-apps/cli/config.schema.json",
-  "productName": "tauri-addition",
+  "productName": "Masar - مسار",
   "version": "0.1.0",
-  "identifier": "com.tauri.dev",
+  "identifier": "com.tauri-testing.dev",
   "build": {
     "frontendDist": "../dist",
     "devUrl": "http://localhost:5174",
@@ -12,11 +12,10 @@
   "app": {
     "windows": [
       {
-        "title": "tauri-addition",
-        "width": 800,
-        "height": 600,
+        "title": "Masar - مسار",
         "resizable": true,
-        "fullscreen": false
+        "maximized": true,
+        "fullscreen": true
       }
     ],
     "security": {
