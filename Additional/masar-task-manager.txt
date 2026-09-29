@@ -1,0 +1,5 @@
+backup for the db
+Masar external links don't open
+about page.
+public route removal but check effect on token overwrite cases.
+shortcuts
